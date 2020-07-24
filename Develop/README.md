@@ -26,10 +26,10 @@
   Umar Arshad
   
   #### Tests
-  No tests.
+  no tests
   
   #### Questions (FAQs)
-  Q: Do I need to install anything? A: Yes, install Inquirer.
+  npm install
   ###### Contact Me
   * GitHub Profile: https://github.com/umar1425
   * Email Address: umararshad1995@gmail.com
